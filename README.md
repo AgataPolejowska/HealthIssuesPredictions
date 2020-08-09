@@ -1,13 +1,15 @@
+# Health Issues Predictions
+
 ## Diabetes Prediction
 
 
 #### Introduction 
 
+
 The Pima are a group of Native Americans living in Arizona. They have been the subject of intensive
 study of diabetes as they have the highest prevalence of type 2 diabetes in the world. 
 The genetic predisposition, the introduction of non-native diet and the decline in physical activity 
 is said to have been the leading contributing factor in the high rate of diabetes.
-
 
 #### The problem definition
 
@@ -94,7 +96,6 @@ Dataset source [UCI](http://archive.ics.uci.edu/ml/datasets/breast+cancer+wiscon
 
 
 ## Heart Disease Prediction
-![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 
 
 #### Introduction
